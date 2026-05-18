@@ -8,5 +8,6 @@ namespace Console_Game
 {
     internal class Battle_System
     {
+        Console_WriteLine("hello");
     }
 }
